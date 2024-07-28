@@ -1,2 +1,2 @@
-# knowledge-repository
+# GTNG project
 Guess the number game
